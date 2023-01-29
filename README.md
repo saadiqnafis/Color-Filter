@@ -1,4 +1,4 @@
-# Warhol Filter
+# Color Filter
 
 We write an algorithm that takes in a square patch like the photo of Simba the Dog, attached in this repository: 
 
